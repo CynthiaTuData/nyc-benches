@@ -48,8 +48,8 @@ Distance to bench by census tract map:
 
 ## New Skills&Growth
 New tools I've learned to use to creat this project
-- QGIS (first time!)
-- ai2html (first time, created multiple versions of map for better viewing experience on mobile and desktop)
+- QGIS (My first time making maps in QGIS!)
+- ai2html (My first story with ai2html, created multiple versions of map for better viewing experience on mobile and desktop)
 - Adobe Illustrator (my second attempt at Ai)
 - Time management: this project was created in a week's time from pitching to the final product
 
