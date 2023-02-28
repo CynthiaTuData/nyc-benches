@@ -47,11 +47,12 @@ Distance to bench by census tract map:
 <img width="835" alt="Screen Shot 2023-02-28 at 4 13 37 AM" src="https://user-images.githubusercontent.com/116761432/221807067-a1b69111-615a-428d-bd9f-741c031dec63.png">
 
 ## New Skills&Growth
-New tools I've learned to use to creat this project
+**New tools I've learned to use to creat this project**
+
 - QGIS (My first time making maps in QGIS!)
-- ai2html (My first story with ai2html, created multiple versions of map for better viewing experience on mobile and desktop)
-- Adobe Illustrator (my second attempt at Ai)
-- Time management: this project was created in a week's time from pitching to the final product
+- ai2html (My first story created with ai2html)
+- Adobe Illustrator (created multiple versions of map for better viewing experience on mobile and desktop)
+- Time management: this project was created in a week's time from pitching to the final product.
 
 ## Challenges and possible improvement
 - Bench data only include streetside benches, which might not provide a full picture of all accessible seating options in NYC.
