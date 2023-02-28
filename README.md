@@ -62,5 +62,6 @@ Distance to bench by census tract map:
 
 ## Contact
 I can be reached at xt2274@columbia.edu or on Twitter @CynthiaTu2. Inbox is open for comments and suggestions. 
+
 Check out my portfolio [here](https://xinyitu.github.io/)!
 
