@@ -51,6 +51,7 @@ Distance to bench by census tract map:
 
 - QGIS (My first time making maps in QGIS!)
 - ai2html (My first story created with ai2html)
+- Google Maps API request (first-time using API requests & GoogleAPI)
 - Adobe Illustrator (created multiple versions of map for better viewing experience on mobile and desktop)
 - Time management: this project was created in a week's time from pitching to the final product.
 
