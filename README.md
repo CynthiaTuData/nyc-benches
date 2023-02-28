@@ -11,7 +11,7 @@ Something that I've discovered since moving to NYC is the lack of streetside ben
 - Walking distance calculation data is collected through [Google Maps Distance Matrix API](https://developers.google.com/maps/documentation/distance-matrix/overview).
 
 ## Methodlogy & Analysis
-#### What's the data?
+#### About bench data
 This project analyzed streetside benches in NYC, which does not include public seatings in parks/plaza/open street resturants/etc. NYC's CityBench program started installing these benches in 2016. Data was last updated in 2022, with latest installation date in 2020.
 
 #### Steps taken to create the map
