@@ -38,10 +38,12 @@ This project analyzed streetside benches in NYC, which does not include public s
 - Queens and Staten Islands are the most bench deficient boroughs in NYC.
 
 Bench location map:
+
 <img width="669" alt="Screen Shot 2023-02-28 at 4 13 24 AM" src="https://user-images.githubusercontent.com/116761432/221807164-1551269d-2637-43db-bc0a-3a6da6f655f8.png">
 
 
 Distance to bench by census tract map:
+
 <img width="835" alt="Screen Shot 2023-02-28 at 4 13 37 AM" src="https://user-images.githubusercontent.com/116761432/221807067-a1b69111-615a-428d-bd9f-741c031dec63.png">
 
 ## New Skills&Growth
